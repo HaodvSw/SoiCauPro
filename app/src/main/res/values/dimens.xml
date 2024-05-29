@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="width_name_pos">58dp</dimen>
+    <dimen name="width_name_pos_2">29dp</dimen>
+    <dimen name="name_pos_margin">10dp</dimen>
+    <dimen name="text_size_small_13">13sp</dimen>
+    <dimen name="text_size_small_14">14sp</dimen>
+    <dimen name="height_name_pos">40dp</dimen>
+    <dimen name="height_name_pos_2x">80dp</dimen>
+    <dimen name="height_name_pos_3x">120dp</dimen>
+    <dimen name="height_name_pos_7x">280dp</dimen>
+    <dimen name="height_name_pos_2">30dp</dimen>
+    <dimen name="text_size_small_16">16sp</dimen>
+    <dimen name="text_size_small_18">18sp</dimen>
+
+    <dimen name="radius_size">18dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp_0_5">0.5dp</dimen>
+</resources>

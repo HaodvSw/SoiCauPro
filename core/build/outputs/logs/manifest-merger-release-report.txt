@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:3:11-29
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:5:3-76
+	android:name
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:5:20-74
+application
+ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:7:3-9:17
+	android:supportsRtl
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml:8:7-33
+uses-sdk
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/Outsource/SoiCau_v2/core/src/main/AndroidManifest.xml

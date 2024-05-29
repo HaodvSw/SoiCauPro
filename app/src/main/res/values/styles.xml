@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StatusTextTabItem" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <!--        <item name="tabTextColor">@color/grey_active</item>-->
+        <!--        <item name="tabSelectedTextColor">@color/orange_active</item>-->
+        <!--        <item name="android:textSize">18sp</item>-->
+        <item name="tabIndicator">@color/transparent</item>
+    </style>
+
+    <style name="font_name_pos_red">
+        <item name="android:textSize">@dimen/text_size_small_14</item>
+        <item name="android:padding">@dimen/name_pos_margin</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/color_red_04</item>
+        <item name="android:background">@drawable/bg_pos</item>
+        <item name="fontWeight">600</item>
+    </style>
+
+    <style name="font_name_pos_black">
+        <item name="android:textSize">@dimen/text_size_small_14</item>
+        <item name="android:padding">@dimen/name_pos_margin</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/bg_pos</item>
+        <item name="fontWeight">600</item>
+    </style>
+</resources>

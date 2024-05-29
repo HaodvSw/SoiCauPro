@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Find KQSX</string>
+    <string name="home">Kết quả</string>
+    <string name="idea">Soi cầu</string>
+    <string name="store">Cửa hàng</string>
+    <string name="statistical_result">Thống kê kết quả</string>
+    <string name="mb">Miền Bắc</string>
+    <string name="mn">Miền Nam</string>
+    <string name="mt">Miền Trung</string>
+
+    <string name="message_purchase">%s</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="no_internet_connection">Không có kết nối internet</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="hintEmail">Email</string>
+    <string name="username">Họ và tên</string>
+    <string name="hintPassword">Mật khẩu</string>
+    <string name="hintConfirmPassword">Xác nhận mật khẩu</string>
+    <string name="tvAccount">Bạn chưa có tài khoản?</string>
+    <string name="tv_exist_account">Bạn đã có tài khoản?</string>
+    <string name="signUp">Đăng ký</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="result">Kết quả</string>
+    <string name="find">Số Vip</string>
+    <string name="code_db">Kí hiệu trúng ĐB:</string>
+    <string name="pos_db">ĐB</string>
+    <string name="pos_1">G1</string>
+    <string name="pos_2">G2</string>
+    <string name="pos_3">G3</string>
+    <string name="pos_4">G4</string>
+    <string name="pos_5">G5</string>
+    <string name="pos_6">G6</string>
+    <string name="pos_7">G7</string>
+    <string name="pos_8">G8</string>
+    <string name="try_play">Quay thử</string>
+    <string name="get_vip">Mua vàng</string>
+    <string name="get_mor">Quay thử</string>
+    <string name="title_default">--/--/----</string>
+    <string name="tv_current_coin">%s vàng</string>
+    <string name="message_find_"> Với xu hướng phát triển nhanh chóng của <font fgcolor='#C92B07'>Trí tuệ nhân tạo(AI)</font> đội ngũ lập trình viên chúng tôi đã phát triển trong thời gian đủ dài để tìm ra những con số với tỷ lệ ăn <font fgcolor='#C92B07'>Đạt trên 70%</font> xác suất. \n Tuy nhiên những con số mà thuật toán trả về giúp quý khách hàng tham khảo. \n Chúng tôi sẽ không chịu trách nghiệm với quyết định của bạn! \n Đội ngũ kỹ sư của chúng tôi luôn cập nhật thuật toán và Bigdata giúp AI phát hiện những con số có tỷ lệ cao hơn mỗi ngày. \n Thân ái!</string>
+    <string name="title_find">Số vip hôm nay</string>
+    <string name="title_chat">Nhóm chat chung</string>
+    <string name="get_value_one">Lấy số hôm nay</string>
+    <string name="vip">VIP</string>
+    <string name="try_gen">Quay thử</string>
+    <string name="genning_data">Thuật toán đang chạy!</string>
+    <string name="title_header">Tỷ lệ chính xác lên đến %s!</string>
+    <string name="ok">OK</string>
+    <string name="all">Tất cả</string>
+    <string name="number_tow">2 Số</string>
+    <string name="number_three">3 Số</string>
+    <string name="start">Bắt đầu</string>
+    <string name="can_not_change">Không thể thay đổi khi kết quả đang quay!</string>
+    <string name="noti">Thông báo</string>
+    <string name="text_notify">%s</string>
+    <string name="message_purchase_one">%s</string>
+    <string name="message_purchase_tow">%s \n %s</string>
+    <string name="loto_active">Bảng đầu đuôi Loto</string>
+    <string name="start_position">Đầu</string>
+    <string name="end_position">Đuôi</string>
+    <string name="format_title_value">%s (%s)</string>
+    <string name="title_sc">Soi cầu</string>
+    <string name="get_value_vip">Số VIP</string>
+    <string name="amount_gold">%d Vàng</string>
+</resources>

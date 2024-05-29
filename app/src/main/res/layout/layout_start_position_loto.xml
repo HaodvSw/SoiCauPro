@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/width_name_pos"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="0"
+        android:textStyle="bold"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="1"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="2"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="3"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="4"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="5"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="6"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="7"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="8"
+        style="@style/font_name_pos_red"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_name_pos"
+        android:text="9"
+        style="@style/font_name_pos_red"
+        />
+
+
+</LinearLayout>

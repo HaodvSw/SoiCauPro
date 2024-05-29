@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localArray">
+        <item>Miền Bắc</item>
+        <item>Miền Trung</item>
+        <item>Miền Nam</item>
+    </string-array>
+
+    <string-array name="localMB">
+        <item>Miền Bắc</item>
+    </string-array>
+
+    <string-array name="localMT">
+        <item>Bình Định</item>
+        <item>Đà Nẵng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Gia Lai</item>
+        <item>Khánh Hòa</item>
+        <item>Kon Tum</item>
+        <item>Ninh Thuận</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Trị</item>
+        <item>Phú Yên</item>
+        <item>Thừa T.Huế</item>
+    </string-array>
+
+    <string-array name="localMN">
+        <item>TP.HCM</item>
+        <item>An Giang</item>
+        <item>Bạc Liêu</item>
+        <item>Bến Tre</item>
+        <item>Bình Dương</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cần Thơ</item>
+        <item>Đà Lạt</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Hậu Giang</item>
+        <item>Kiên Giang</item>
+        <item>Long An</item>
+        <item>Sóc Trăng</item>
+        <item>Tây Ninh</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Vĩnh Long</item>
+        <item>Vũng Tàu</item>
+    </string-array>
+</resources>
